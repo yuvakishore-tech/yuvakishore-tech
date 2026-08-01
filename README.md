@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<h1 align="center">Goketi Yuva Kishore</h1>
+<h1 align="left"> Hey there, I'am Goketi Yuva Kishore</h1>
 
 <p align="center">
 Software Engineer • AI/ML Enthusiast • Full-Stack Developer
