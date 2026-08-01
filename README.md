@@ -1,40 +1,39 @@
-# Hey there! 👋 I'm Yuva Kishore
+# 👋 Hey there! I'm Yuva Kishore
 
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:yuvakishoregoketi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/yourprofile"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-
----
-
-## 🎯 About Me
-
-<div align="center">
-
-[![Python](https://img.shields.io/badge/Expertise-Python%20|%20ML%20|%20Data%20Science-blue?style=flat-square)](https://github.com/yourprofile)
-[![Focus](https://img.shields.io/badge/Current%20Focus-ML%20Pipeline%20|%20NLP%20|%20System%20Design-green?style=flat-square)](https://github.com/yourprofile)
-[![Education](https://img.shields.io/badge/Education-ANITS%20|%20CSE%20Data%20Science-orange?style=flat-square)](https://github.com/yourprofile)
-
-</div>
-
-Data-driven software engineer passionate about **machine learning**, **system design**, and **cloud computing**. I transform complex problems into elegant solutions using Python, data analytics, and modern web technologies. Currently pursuing a **Bachelor of Technology in CSE (Data Science)** at ANITS.
-
-🔬 **Currently building:** Intelligent ML systems at the intersection of **NLP**, **fraud detection**, and **financial analytics**.
-
-<div align="center">
-
-| 🎯 Projects | 🏆 Achievements | 📚 Certifications |
-|:---:|:---:|:---:|
-| 8+ | 3+ Hackathons | 4+ |
-
-</div>
+Data-driven ML Engineer | Python Developer | Data Science Enthusiast  
+Building intelligent systems at the intersection of **ML**, **NLP**, and **Data Analytics**
 
 ---
 
-## 💻 Tech Stack
+## 🙋 About Me:
+
+- 🔬 I'm currently working on **ML pipelines** and **fraud detection systems**
+- 👨‍💻 I'm looking to collaborate on **AI/ML projects** and **open-source** contributions  
+- 🎓 I'm a **Computer Science graduate** (Data Science specialization) with hands-on experience in **frontend development**, **Python automation**, and **AI-based applications**. I enjoy building scalable, real-world solutions working in fast-paced environments with continuously upgrading modern technologies
+- 📚 I'm currently learning **Advanced NLP**, **System Design**, and **Cloud Architecture**
+- 💬 Ask me about **Machine Learning**, **Data Analytics**, **Python Development**, or **Web Technologies**
+- ⚡ Fun fact: **I love converting complex data into actionable insights!**
+
+---
+
+## 🌐 Socials:
 
 <div align="center">
 
-### 🐍 Languages & Frameworks
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvakishoregoketi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+## 💻 Tech Stack:
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -42,27 +41,38 @@ Data-driven software engineer passionate about **machine learning**, **system de
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🤖 Data & Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-222222?style=for-the-badge&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-2C5AA0?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Databases & Infrastructure
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🛠️ Tools & Platforms
+![XGBoost](https://img.shields.io/badge/XGBoost-222222?style=for-the-badge&logo=xgboost&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-2C5AA0?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-387EA1?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats:
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourprofile&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&text_color=c9cacc&icon_color=00d4ff&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprofile&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&text_color=c9cacc&langs_count=8)
 
 </div>
 
@@ -141,52 +151,7 @@ Check out my profile for:
 </tr>
 </table>
 
----
 
-## 📊 Repository Highlights
-
-<div align="center">
-
-| Repo | Language | Stars | Forks | Status |
-|------|----------|-------|-------|--------|
-| [fraud-detection](https://github.com/yourprofile/fraud-detection) | Python | ⭐⭐⭐ | 🍴 | 🟢 Active |
-| [fake-news-detector](https://github.com/yourprofile/fake-news-detector) | Python | ⭐⭐ | 🍴 | 🟢 Active |
-| [expense-tracker](https://github.com/yourprofile/expense-tracker) | Python | ⭐ | 🍴 | 🟢 Maintained |
-
-</div>
-
----
-
-## 📊 GitHub Statistics & Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourprofile&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&text_color=c9cacc&icon_color=00d4ff&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprofile&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&text_color=c9cacc&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourprofile&theme=dark&hide_border=true&background=1a1b27)
-
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourprofile&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🔝 Quick Navigation
-
-<div align="center">
-
-[📌 Pinned Repos](#-featured-projects-pinned-repos) • 
-[📊 GitHub Stats](#-github-statistics--activity) • 
-[🎓 Certifications](#-certifications--achievements) • 
-[💼 Experience](#-experience) • 
-[📞 Contact](#-lets-connect)
-
-</div>
-
----
 
 ## 🎓 Certifications & Achievements
 
@@ -201,25 +166,6 @@ Check out my profile for:
 
 ---
 
-## 🔬 Current Focus
-
-- **Machine Learning**: Building production-grade ML pipelines with XGBoost, scikit-learn
-- **NLP & Text Analytics**: Exploring transformer models and linguistic pattern extraction
-- **System Design**: Designing scalable architectures for data-heavy applications
-- **Cloud Computing**: Hands-on AWS exploration for deployment and infrastructure
-- **Backend Development**: Crafting robust REST APIs and microservices
-
----
-
-## 💡 What I'm Learning
-
-- 🤖 Advanced NLP techniques and transformer models (BERT, GPT)
-- ☁️ Cloud architecture patterns on AWS
-- 🔐 Security best practices in data handling
-- 📈 Large-scale data processing frameworks
-
----
-
 ## 📈 Experience
 
 **Trainee @ Elevate Labs Pvt Ltd** | *Dec 2025 – April 2026*
@@ -229,50 +175,40 @@ Check out my profile for:
 
 ---
 
-## 🤝 Let's Connect!
+## 💡 Current Focus & Learning
 
-I'm always interested in collaborating on:
-- 🤖 **Machine Learning projects** - especially fraud detection and NLP
-- 💻 **Open-source contributions** - data science and web development
-- 📊 **Data analytics projects** - turning raw data into actionable insights
-- 🚀 **Startup ideas** - building products that scale
+🔬 **Focus Areas:**
+- Building production-grade ML pipelines with XGBoost & scikit-learn
+- Exploring transformer models and advanced NLP techniques
+- Designing scalable architectures for data-heavy applications
+- Hands-on cloud computing with AWS
+
+🤝 **Open to Collaborating On:**
+- Machine Learning & AI projects
+- Open-source data science contributions
+- Data analytics and visualization
+- Full-stack development
+
+---
+
+## 📞 Let's Connect!
 
 📧 **Email**: yuvakishoregoketi@gmail.com  
 📱 **Phone**: +91 6300651563  
 💼 **LinkedIn**: [Add your profile]  
-🐙 **GitHub**: [Add your profile]  
-
----
-
-## 📝 Latest Articles & Learning
-
-<!-- You can add blog posts or learning journey here -->
-- Writing about ML pipeline optimization
-- Exploring micro-service architecture patterns
-- Deep dive into fraud detection methodologies
-
----
+🐙 **GitHub**: [Add your profile]
 
 ---
 
 <div align="center">
 
-### 🌟 Support My Work
-
-If you find my projects helpful, consider giving them a ⭐!  
-It helps me stay motivated and shows the GitHub community what's valuable.
-
----
-
-### 📊 Profile Views & Stats
+### ⭐ If you find my work helpful, consider giving a star!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourprofile&style=flat-square&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/yourprofile?style=flat-square&color=success)
 
----
+**Made with ❤️ by Yuva Kishore**
 
-**Made with ❤️ by [Yuva Kishore](https://github.com/yourprofile)**
-
-<sub>⚡ Last Updated: 2026 | Always Learning & Building 🚀</sub>
+*⚡ Always Learning | Always Building | Always Growing 🚀*
 
 </div>
