@@ -12,8 +12,6 @@ Hey there, I'am Yuva Kishore<br>Software Engineer • AI/ML Enthusiast • Pytho
 ![](https://streak-stats.demolab.com/?user=yuvakishore-tech&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yuvakishore-tech&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yuvakishore-tech&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yuvakishore-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
